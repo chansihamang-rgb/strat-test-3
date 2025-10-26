@@ -1,0 +1,15 @@
+Can you tell me what kind of Python code you’d like me to make?
+
+For example:
+
+A calculator
+
+A web scraper
+
+A data analysis script
+
+A game (like Tic-Tac-Toe)
+
+An API or web app (Flask/FastAPI)
+
+Once you tell me what you want, I’ll write the Python code for it.
